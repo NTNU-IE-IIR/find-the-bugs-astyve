@@ -75,6 +75,7 @@ public class PropertyRegisterTest {
 
     /**
      * Test of findAllPropertiesWithLotNumber method, of class PropertyRegister.
+     * 
      */
     @Test
     public void testFindAllPropertiesWithLotNumber() {
