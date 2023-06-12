@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "JUnit test with Maven &#45; 7 tests",
+      "setup": "",
+      "run": "mvn test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    }
+  ]
+}
